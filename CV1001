@@ -1,9 +1,149 @@
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4rei9rOiKgueCuS0yLjg2TUIvcyIsDQogICJhZGQiOiAiMTIwLjIzMy4yNy4xMzgiLA0KICAicG9ydCI6ICI4ODU4IiwNCiAgImlkIjogImRkZmMwZDhmLTA0YTItNDgxYy04OTg5LTkyM2FjZjc3YjIyOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbveWuieW+vUEiLA0KICAiYWRkIjogIjExMi4xMzIuMjEyLjExMiIsDQogICJwb3J0IjogIjUwMDAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiBlOmAmuS6jOWMuijljJfkuqwpIiwNCiAgImFkZCI6ICI0My4xMzguMTA0LjE4MiIsDQogICJwb3J0IjogIjUwMDAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIueUteS/oeS4gOWMuijljZfkuqwpIiwNCiAgImFkZCI6ICIxNzUuMjcuMTU0LjYxIiwNCiAgInBvcnQiOiAiNTAwMDIiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICI2NCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaVmeiCsue9keS4k+WMuijlronlvr0pIiwNCiAgImFkZCI6ICIxMjAuMjEwLjIwNS44MiIsDQogICJwb3J0IjogIjUwMDAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiBlOmAmuS4gOWMuijlsbHkuJwpIiwNCiAgImFkZCI6ICI0Ny4xMDQuMTg2LjEzMyIsDQogICJwb3J0IjogIjUwMDAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiBlOmAmuS4gOWMuijljJfkuqwpIiwNCiAgImFkZCI6ICIzOS4xMDMuMTY1LjE3OCIsDQogICJwb3J0IjogIjU2MDAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiBlOmAmuWbm+WMuijkuIrmtbcpIiwNCiAgImFkZCI6ICIxMDYuNTQuMjEyLjE2NiIsDQogICJwb3J0IjogIjUwMDAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKYheaXpeacrOS4nOS6rEHimIXlubTku5jkuJPnur8iLA0KICAiYWRkIjogIjEwNC4yMzMuMTYxLjE5MiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogImR0bHMiLA0KICAiaG9zdCI6ICJ3d3cuNDU0MzM5NDUueHl6IiwNCiAgInBhdGgiOiAiL3BhdGgvMjQzNTM1MzIyOTA2IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+#
+#-------------------------------------------------------------#
+#  创建者：https://v2rayse.com
+#  创建时间：2023-09-20 22:52:13
+#  模版：v2rayse默认模版
+#  节点数量：9
+#-------------------------------------------------------------#
+#
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:9090
+proxies:
+  - {"type":"vmess","name":"中转节点-2.86MB/s","ws-opts":{"path":"/"},"server":"120.233.27.138","port":"8858","uuid":"ddfc0d8f-04a2-481c-8989-923acf77b228","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"中国安徽A","server":"112.132.212.112","port":"50002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"联通二区(北京)","server":"43.138.104.182","port":"50002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"电信一区(南京)","server":"175.27.154.61","port":"50002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"教育网专区(安徽)","server":"120.210.205.82","port":"50002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"联通一区(山东)","server":"47.104.186.133","port":"50002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"联通一区(北京)","server":"39.103.165.178","port":"56002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"联通四区(上海)","server":"106.54.212.166","port":"50002","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"★日本东京A★年付专线","ws-opts":{"path":"/path/243535322906","headers":{"host":"www.45433945.xyz"}},"server":"104.233.161.192","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - DIRECT
+      - 中转节点-2.86MB/s
+      - 中国安徽A
+      - 联通二区(北京)
+      - 电信一区(南京)
+      - 教育网专区(安徽)
+      - 联通一区(山东)
+      - 联通一区(北京)
+      - 联通四区(上海)
+      - ★日本东京A★年付专线
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 中转节点-2.86MB/s
+      - 中国安徽A
+      - 联通二区(北京)
+      - 电信一区(南京)
+      - 教育网专区(安徽)
+      - 联通一区(山东)
+      - 联通一区(北京)
+      - 联通四区(上海)
+      - ★日本东京A★年付专线
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 中转节点-2.86MB/s
+      - 中国安徽A
+      - 联通二区(北京)
+      - 电信一区(南京)
+      - 教育网专区(安徽)
+      - 联通一区(山东)
+      - 联通一区(北京)
+      - 联通四区(上海)
+      - ★日本东京A★年付专线
+  - name: 📲 电报信息
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - 中转节点-2.86MB/s
+      - 中国安徽A
+      - 联通二区(北京)
+      - 电信一区(南京)
+      - 教育网专区(安徽)
+      - 联通一区(山东)
+      - 联通一区(北京)
+      - 联通四区(上海)
+      - ★日本东京A★年付专线
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - 🎯 全球直连
+      - 🚀 节点选择
+      - 中转节点-2.86MB/s
+      - 中国安徽A
+      - 联通二区(北京)
+      - 电信一区(南京)
+      - 教育网专区(安徽)
+      - 联通一区(山东)
+      - 联通一区(北京)
+      - 联通四区(上海)
+      - ★日本东京A★年付专线
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - 中转节点-2.86MB/s
+      - 中国安徽A
+      - 联通二区(北京)
+      - 电信一区(南京)
+      - 教育网专区(安徽)
+      - 联通一区(山东)
+      - 联通一区(北京)
+      - 联通四区(上海)
+      - ★日本东京A★年付专线
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - ♻️ 自动选择
+  - name: 🛑 全球拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🍃 应用净化
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - 中转节点-2.86MB/s
+      - 中国安徽A
+      - 联通二区(北京)
+      - 电信一区(南京)
+      - 教育网专区(安徽)
+      - 联通一区(山东)
+      - 联通一区(北京)
+      - 联通四区(上海)
+      - ★日本东京A★年付专线
+rules:
+  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
+  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
+  
+  
+  
+ 
